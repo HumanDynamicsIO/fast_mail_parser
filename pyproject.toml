@@ -6,7 +6,7 @@ authors = [{ name = "Andrii Sokyrko", email = "wartwvister@gmail.com" }]
 keywords = ["parser", "email", "rfc822", "mime", "maildir"]
 requires-python = ">= 3.7"
 readme = "Readme.md"
-license = { file = "LICENSE" }
+license = { text = "Apache-2.0" }
 classifiers = [
   "License :: OSI Approved :: Apache Software License",
   "Development Status :: 3 - Alpha",
