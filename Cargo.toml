@@ -5,7 +5,6 @@ edition = "2021"
 version = "0.3.0"
 authors = ["Andrii Sokyrko <wartwvister@gmail.com>"]
 readme = "Readme.md"
-license-file = "LICENSE"
 homepage = "https://github.com/namecheap/fast_mail_parser"
 repository = "https://github.com/namecheap/fast_mail_parser"
 keywords = ["parser", "email", "rfc822", "mime", "maildir"]
